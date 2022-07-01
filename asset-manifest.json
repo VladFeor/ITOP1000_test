@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ITOP1000_test/static/css/main.71f212df.css",
+    "main.js": "/ITOP1000_test/static/js/main.911d08dc.js",
+    "static/js/787.a86f3764.chunk.js": "/ITOP1000_test/static/js/787.a86f3764.chunk.js",
+    "index.html": "/ITOP1000_test/index.html",
+    "main.71f212df.css.map": "/ITOP1000_test/static/css/main.71f212df.css.map",
+    "main.911d08dc.js.map": "/ITOP1000_test/static/js/main.911d08dc.js.map",
+    "787.a86f3764.chunk.js.map": "/ITOP1000_test/static/js/787.a86f3764.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71f212df.css",
+    "static/js/main.911d08dc.js"
+  ]
+}
